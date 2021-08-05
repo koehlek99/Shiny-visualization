@@ -2,14 +2,11 @@
 library(shiny)
 library(shinythemes)
 library(dplyr)
-library(readr)
 library(plotly)
 library(networkD3)
 library(tidyverse)
 library(rgexf)
-library(igraph)
 library(tnet)
-library(plyr)
 
 # Load data
 

@@ -10,7 +10,6 @@ library(rgexf)
 library(igraph)
 library(tnet)
 library(plyr)
-l
 
 # Load data
 

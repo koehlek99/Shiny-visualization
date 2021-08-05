@@ -34,7 +34,7 @@ ui <- fluidPage(theme = shinytheme("lumen"),
                                                      selected = 1),
                                         
                                         
-                                        selectInput(inputId = "person", label = strong("Sch?ler"),
+                                        selectInput(inputId = "person", label = strong("Schueler"),
                                                     choices = c("021", "022", "039", "115", "050", "058", "073", "096", "077", "103"),
                                                     selected = "021")
                                       ),
